@@ -1,0 +1,3 @@
+- ✨✨✨✨ Hi, I’m @junhodori ✨✨✨✨
+- ✨✨✨✨ I am currently a developer ✨✨✨✨
+- ✨✨✨✨ I work for a Korean IT company ✨✨✨✨
