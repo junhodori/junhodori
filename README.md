@@ -1,3 +1,3 @@
 - ✨✨✨✨ Hi, I’m @junhodori ✨✨✨✨
-- ✨✨✨✨ I am currently a developer ✨✨✨✨
-- ✨✨✨✨ I work for a Korean IT company ✨✨✨✨
+- ✨✨✨✨ I am currently a back-end developer ✨✨✨✨
+- ✨✨✨✨ I work for a jobplanet company ✨✨✨✨
